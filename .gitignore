@@ -1,4 +1,10 @@
-__pycache_/
-*.pyc
-.ipynb_checkpoints/
+# Python
+__pycache__/
+*.py[cod]
 .venv/
+venv/
+env/
+.ipynb_checkpoints/
+# IDE
+.idea/
+.vscode/
